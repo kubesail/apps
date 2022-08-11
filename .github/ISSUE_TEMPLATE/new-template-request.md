@@ -1,6 +1,6 @@
 ---
 name: New Template Request
-about: Describe this issue template's purpose here.
+about: Select this for requesting a new KubeSail template
 title: "[NEW REQUEST]"
 labels: ''
 assignees: ''
