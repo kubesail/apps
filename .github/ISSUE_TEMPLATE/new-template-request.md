@@ -1,6 +1,6 @@
 ---
-name: New Template Request
-about: Select this for requesting a new KubeSail template
+name: New App Request
+about: Use this for requesting a new KubeSail app template
 title: "[NEW REQUEST]"
 labels: ''
 assignees: ''
