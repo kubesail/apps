@@ -2,7 +2,7 @@
 name: Bug Report
 about: Use this for filing a bug with a KubeSail app
 title: "[BUG]"
-labels: ''
+labels: 'Bug Report'
 assignees: ''
 
 ---
