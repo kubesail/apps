@@ -12,4 +12,4 @@ assignees: ''
 **Docker Image**: <link>
 **Has arm64 image**: <Yes/No>
 ---
-**Other Useful Informatione**: (Other Links, guides, etc)
+**Other Useful Information**: (Other Links, guides, etc)
